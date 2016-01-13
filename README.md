@@ -1,4 +1,4 @@
-*This is my own initial repo
+# This is my own initial repo
 An initial repo for nothing in particular but to share individual items
 
 
